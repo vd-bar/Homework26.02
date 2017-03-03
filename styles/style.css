@@ -186,7 +186,6 @@ body{background:#DDE1ED;}
 
     height: 100%;
     display: flex;
-
 }
 
 .status,.photo,.sound,.link{width: 25%;
@@ -204,4 +203,68 @@ body{background:#DDE1ED;}
 }
 .content_right{
     width: 30%;
+}
+.content_left_second{
+
+    height: 160px;width: 100%;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+    background: white;
+    position: relative;
+}
+.content_left_second_left{
+    width: 20%;height: 100%;
+    background:#DDE1ED;
+}
+.content_left_second_right{
+    height: 100%;
+    width: 80%;
+    box-shadow: 0px 0px 2px 3px rgba(14, 29, 77, 0.19);
+}
+.content_left_second_right_1_1{
+    width: 90%;
+    height: 101px;
+    margin: 5px auto ;
+    border-bottom:2px solid rgba(110,135,111,0.22);
+}
+span{
+    font-weight: bold;
+}
+.content_left_second_right_1_2{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.form{    margin-top: -10px;
+width: 67%;}
+.image2{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    display: block;float: left;
+    margin-top: -3px;
+}
+.aa{
+    display: flex;
+    width: 25%;
+}
+.t1, .t2,.t3{
+    width: 33%;
+}
+.t1{
+    border-bottom:2px solid rgba(110,135,111,0.22);
+}
+.t1:after{
+    content: "\f00c";
+    font-family: FontAwesome;
+    }
+.t2:after{
+    content: "\f00c";
+    font-family: FontAwesome;
+}
+.t3:after{
+    content: "\f00c";
+    font-family: FontAwesome;
 }
