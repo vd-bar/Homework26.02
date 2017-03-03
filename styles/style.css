@@ -28,6 +28,7 @@ body{background:#DDE1ED;}
     width: 1300px;
     display: flex;
     justify-content: space-between;
+
 }
 .header_content_right{
     display:flex;
