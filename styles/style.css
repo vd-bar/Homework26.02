@@ -516,6 +516,7 @@ background: white;
 #right_22{
     margin-top: 47px;
 }
+
 .right_22:after{
     content: "\f111";
     font-family: FontAwesome;
@@ -524,10 +525,18 @@ background: white;
     margin-top: -15px;
     color: #14ff16;
     font-size: 10px;
-}.right_222{
+}
+.right_22:hover{
+    background: #DDE1ED;
+}
+.right_222{
      background: white;
 
  }
+.right_222:hover{
+    background: #DDE1ED;
+
+}
  .right_222:after{
      content: "back in 45 minutes";
      display: block;
@@ -539,6 +548,10 @@ background: white;
  .right_223{
      background: white;
  }
+.right_223:hover{
+    background: #DDE1ED;
+
+}
 .right_223:after{
     content: "\f111";
     font-family: FontAwesome;
@@ -551,6 +564,10 @@ background: white;
 .right_224{
     background: white;
 }
+.right_224:hover{
+    background: #DDE1ED;
+
+}
 .right_224:after{
     content: "\f111";
     font-family: FontAwesome;
@@ -562,6 +579,10 @@ background: white;
 }
 .right_225{
     background: white;
+
+}
+.right_225:hover{
+    background: #DDE1ED;
 
 }
 .right_225:after{
